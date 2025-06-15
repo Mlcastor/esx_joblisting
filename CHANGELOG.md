@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Mlcastor/esx_joblisting/compare/v1.0.0...v1.1.0) (2025-06-15)
+
+
+### Features
+
+* **esx_joblisting:** migrate legacy resource into template skeleton ([030eecb](https://github.com/Mlcastor/esx_joblisting/commit/030eecbfee25dd82aa94f813d9629688a7372225))
+
 ## [1.0.0](https://github.com/Mlcastor/esx_resource_template/compare/v0.3.0...v1.0.0) (2025-06-15)
 
 
